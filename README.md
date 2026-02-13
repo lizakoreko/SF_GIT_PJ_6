@@ -21,8 +21,6 @@ project_6
 * ![3d_clusters.png](visualizations/3d_clusters.png)
 * ![boxplot_1.png](visualizations/boxplot_1.png)
 * ![boxplot_2.png](visualizations/boxplot_2.png)
-* ![plot_clusters.png](visualizations/plot_clusters.svg)
-
 * ![plot_clusters.png](visualizations/plot_clusters.png)
 * ![agg_plot.png](visualizations/agg_plot.png)
 * ![gmm_plot.png](visualizations/gmm_plot.png)
