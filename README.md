@@ -1,5 +1,7 @@
 ## SF_GIT_PJ_6
-project_6
+
+Сегментация клиентов онлайн магазина подарков [SF_GIT_PJ_6](project_6/Project_6.ipynb)
+
 ## Данные проекта
 
 ### Набор данных
@@ -18,23 +20,24 @@ project_6
 ### Основные визуализации
 
 **Статические графики (PNG):**
-* ![3d_clusters.png](visualizations/3d_clusters.png)
+
+* ![top_10_country.png](visualizations/top_10_country.png)
+* ![season_top_10_country.png](visualizations/season_top_10_country.png)
+* ![season_coef.png](visualizations/season_coef.png)
+* ![month_country.png](visualizations/month_country.png)
+* ![season_coef_orders.png](visualizations/season_coef_orders.png)
+* ![orders_by_day_week.png](visualizations/orders_by_day_week.png)
+* ![heat_map_day_hour.png](visualizations/heat_map_day_hour.png)
+* ![orders_by_hour.png](visualizations/orders_by_hour.png)
+* ![stat_orders_by_hour.png](visualizations/stat_orders_by_hour.png)
+* ![stat_orders_by_day.png](visualizations/stat_orders_by_day.png)
 * ![boxplot_1.png](visualizations/boxplot_1.png)
 * ![boxplot_2.png](visualizations/boxplot_2.png)
-* ![plot_clusters.png](visualizations/plot_clusters.png)
+* ![kmeans_plot.png](visualizations/kmeans_plot.png)
 * ![agg_plot.png](visualizations/agg_plot.png)
 * ![gmm_plot.png](visualizations/gmm_plot.png)
-* ![heat_map_day_hour.png](visualizations/heat_map_day_hour.png)
-* ![kmeans_plot.png](visualizations/kmeans_plot.png)
-* ![month_country.png](visualizations/month_country.png)
-* ![orders_by_day_week.png](visualizations/orders_by_day_week.png)
-* ![orders_by_hour.png](visualizations/orders_by_hour.png)
-* ![season_coef.png](visualizations/season_coef.png)
-* ![season_coef_orders.png](visualizations/season_coef_orders.png)
-* ![season_top_10_country.png](visualizations/season_top_10_country.png)
-* ![stat_orders_by_day.png](visualizations/stat_orders_by_day.png)
-* ![stat_orders_by_hour.png](visualizations/stat_orders_by_hour.png)
-* ![top_10_country.png](visualizations/top_10_country.png)
+* ![3d_clusters.png](visualizations/3d_clusters.png)
+* ![plot_clusters.png](visualizations/plot_clusters.png)
 
 # Сегментация клиентов онлайн-магазина подарков
 
