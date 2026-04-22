@@ -6,12 +6,12 @@
 
 ### Набор данных
 
-**Файл:** data.csv  
-[Скачать данные] (https://drive.google.com/file/d/1EijT9FgqXmmg5VLo8yyeMCkxhRXhh1Wt/view?usp=sharing)
+**Файл:** 
+[data.csv](https://drive.google.com/file/d/1EijT9FgqXmmg5VLo8yyeMCkxhRXhh1Wt/view?usp=sharing)
 
-**Файл:** data_clean_final.csv 
+**Файл:** 
 
-[Скачать данные] (https://drive.google.com/file/d/1lcujxcsd1gUbAc3A4S9jCvoYybZ7yZBF/view?usp=sharing)
+[data_clean_final.csv](https://drive.google.com/file/d/1lcujxcsd1gUbAc3A4S9jCvoYybZ7yZBF/view?usp=sharing)
 
 **Примечание:** Для работы с проектом скачайте файлы и поместите их в корневую папку проекта.
 
