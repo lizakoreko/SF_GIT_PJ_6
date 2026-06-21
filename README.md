@@ -1,15 +1,13 @@
-## SF_GIT_PJ_6
+## Сегментация клиентов онлайн магазина подарков
 
-### Сегментация клиентов онлайн магазина подарков [SF_GIT_PJ_6](project_6/Project_6.ipynb)
+[SF_GIT_PJ_6](project_6/Project_6.ipynb)
 
 ## Данные проекта
 
 ### Набор данных
 
-**Файл:** 
 [data.csv](https://drive.google.com/file/d/1EijT9FgqXmmg5VLo8yyeMCkxhRXhh1Wt/view?usp=sharing)
 
-**Файл:** 
 
 [data_clean_final.csv](https://drive.google.com/file/d/1lcujxcsd1gUbAc3A4S9jCvoYybZ7yZBF/view?usp=sharing)
 
