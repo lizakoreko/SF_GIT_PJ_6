@@ -1,43 +1,6 @@
-## Сегментация клиентов онлайн магазина подарков
+# Сегментация клиентов онлайн магазина подарков
 
 [SF_GIT_PJ_6](project_6/Project_6.ipynb)
-
-## Данные проекта
-
-### Набор данных
-
-[data.csv](https://drive.google.com/file/d/1EijT9FgqXmmg5VLo8yyeMCkxhRXhh1Wt/view?usp=sharing)
-
-
-[data_clean_final.csv](https://drive.google.com/file/d/1lcujxcsd1gUbAc3A4S9jCvoYybZ7yZBF/view?usp=sharing)
-
-**Примечание:** Для работы с проектом скачайте файлы и поместите их в корневую папку проекта.
-
-## Визуализация данных
-
-### Основные визуализации
-
-**Статические графики (PNG):**
-
-* ![top_10_country.png](visualizations/top_10_country.png)
-* ![season_top_10_country.png](visualizations/season_top_10_country.png)
-* ![season_coef.png](visualizations/season_coef.png)
-* ![month_country.png](visualizations/month_country.png)
-* ![season_coef_orders.png](visualizations/season_coef_orders.png)
-* ![orders_by_day_week.png](visualizations/orders_by_day_week.png)
-* ![heat_map_day_hour.png](visualizations/heat_map_day_hour.png)
-* ![orders_by_hour.png](visualizations/orders_by_hour.png)
-* ![stat_orders_by_hour.png](visualizations/stat_orders_by_hour.png)
-* ![stat_orders_by_day.png](visualizations/stat_orders_by_day.png)
-* ![boxplot_1.png](visualizations/boxplot_1.png)
-* ![boxplot_2.png](visualizations/boxplot_2.png)
-* ![kmeans_plot.png](visualizations/kmeans_plot.png)
-* ![agg_plot.png](visualizations/agg_plot.png)
-* ![gmm_plot.png](visualizations/gmm_plot.png)
-* ![3d_clusters.png](visualizations/3d_clusters.png)
-* ![plot_clusters.png](visualizations/plot_clusters.png)
-
-# Сегментация клиентов онлайн-магазина подарков
 
 Маркетинг — неотъемлемая часть любого бизнеса. Для повышения прибыли компании важно понимать своего клиента, его пожелания и предпочтения. С появлением электронной коммерции, или онлайн-продаж, стало намного проще собирать данные о клиентах, анализировать их, находить закономерности и реализовывать маркетинговые кампании.
 
@@ -56,6 +19,14 @@
 - Построить несколько моделей машинного обучения, решающих задачу кластеризации клиентов
 - Определить количество кластеров и проинтерпретировать их
 
+## Данные проекта
+
+[data.csv](https://drive.google.com/file/d/1EijT9FgqXmmg5VLo8yyeMCkxhRXhh1Wt/view?usp=sharing)
+
+[data_clean_final.csv](https://drive.google.com/file/d/1lcujxcsd1gUbAc3A4S9jCvoYybZ7yZBF/view?usp=sharing)
+
+**Примечание:** Для работы с проектом скачайте файлы и поместите их в корневую папку проекта.
+
 ## Описание данных
 
 Данные представляют собой таблицу в формате CSV, в каждой строке которой содержится информация об уникальной транзакции.
@@ -71,6 +42,25 @@
 * CustomerID — идентификатор клиента (уникальный пятизначный номер, однозначно присваиваемый каждому клиенту);
 * Country — название страны, в которой проживает клиент.
 
+## Визуализация данных
+
+* ![top_10_country.png](visualizations/top_10_country.png)
+* ![season_top_10_country.png](visualizations/season_top_10_country.png)
+* ![season_coef.png](visualizations/season_coef.png)
+* ![month_country.png](visualizations/month_country.png)
+* ![season_coef_orders.png](visualizations/season_coef_orders.png)
+* ![orders_by_day_week.png](visualizations/orders_by_day_week.png)
+* ![heat_map_day_hour.png](visualizations/heat_map_day_hour.png)
+* ![orders_by_hour.png](visualizations/orders_by_hour.png)
+* ![stat_orders_by_hour.png](visualizations/stat_orders_by_hour.png)
+* ![stat_orders_by_day.png](visualizations/stat_orders_by_day.png)
+* ![boxplot_1.png](visualizations/boxplot_1.png)
+* ![boxplot_2.png](visualizations/boxplot_2.png)
+* ![kmeans_plot.png](visualizations/kmeans_plot.png)
+* ![agg_plot.png](visualizations/agg_plot.png)
+* ![gmm_plot.png](visualizations/gmm_plot.png)
+* ![3d_clusters.png](visualizations/3d_clusters.png)
+* ![plot_clusters.png](visualizations/plot_clusters.png)
 
 ## Основные этапы решения задачи
 
